@@ -16,20 +16,14 @@
 - **Languages:** Python, HTML, CSS  
 - **Frameworks:** Django, Flask  
 - **Tools:** Git, GitHub, VS Code  
-- **Databases:** SQLite, MySQL  
-
----
-
-### 📈 Projects
-- [🌦️ Python Weather App](https://github.com/<your-username>/python-weather-app)  
-- Add more projects as you create them!
+- **Databases:** MySQL  
 
 ---
 
 ### 📫 Connect with Me
 - 📧 Email: [valarmathitamilselvam38@gmail.com](mailto:valarmathitamilselvam38@gmail.com)  
 - 💼 LinkedIn: *(Add your LinkedIn link here)*  
-- 🐍 GitHub: [github.com/<your-username>](https://github.com/<your-username>)
+- 🐍 GitHub: [github.com/<your-username>](https://github.com/<valarmathi11>)
 
 ---
 
