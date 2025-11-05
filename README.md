@@ -22,7 +22,7 @@
 
 ### 📫 Connect with Me
 - 📧 Email: [valarmathitamilselvam38@gmail.com](mailto:valarmathitamilselvam38@gmail.com)  
-- 💼 LinkedIn: *(linkedin.com/in/valarmathi-tamilselvam-256021258)*  
+- 💼 LinkedIn: *(https://linkedin.com/in/valarmathi-tamilselvam-256021258)*  
 - 🐍 GitHub: [github.com/<your-username>](https://github.com/valarmathi11)
 
 ---
